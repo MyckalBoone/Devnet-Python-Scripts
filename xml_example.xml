@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device>
+	<Hostname>R1</Hostname>
+	<IP>192.168.55.3</IP>
+	<IP6>::</IP6>
+</device>
